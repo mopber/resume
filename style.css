@@ -1,0 +1,21 @@
+.mid{
+    text-align: center;
+}
+
+#conan{
+    margin-left: 25%;
+    width: 50%;
+    text-align : center;
+    border: 5px solid black
+    
+}
+
+#yellow{
+    color: yellow;
+}
+
+body{
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Mali', cursive;
+    background-color:hsla(0, 97%, 88%, 0.5);
+}
